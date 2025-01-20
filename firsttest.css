@@ -3,6 +3,9 @@
     padding: 0;
 
 }
+.craigart {
+    right: 20px;
+}
 #banner {
 background: url(3xnnewbg.jpg);
 background-size: cover;
