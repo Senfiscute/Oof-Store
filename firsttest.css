@@ -205,6 +205,11 @@ font-size: 25px;
     width: 100%;
 }
 }
+.fanart {
+    width: 90%;
+    height: 90%;
+    border-radius: 20px;
+}
 /*--service---*/
 #cooool {
     width: 100%;
