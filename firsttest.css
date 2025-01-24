@@ -454,4 +454,6 @@ font-size: 12px;
 .sec2 {
 background: firstpage.png;
     flex-basis: 50%;
+    width: 100%;
+    height: 100%;
 }
